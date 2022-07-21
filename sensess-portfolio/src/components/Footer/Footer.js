@@ -1,10 +1,14 @@
 import React from 'react';
+import {Navbar, Container} from 'react';
 
-function Footer(props) {
+function Footer() {
     return (
-        <div>
-            <h1> This is a Footer </h1>
-        </div>
+        <Navbar bg="light">
+        <Container>
+          <Navbar.Brand href="#home">Brand link</Navbar.Brand>
+        </Container>
+      </Navbar>
+      
     );
 }
 
