@@ -1,5 +1,8 @@
+#fix {
+    display: inline;
+}
 .navbar {
-    
+    display: inline;
     flex-wrap: inherit;
     align-items: center;
     justify-content: space-between;

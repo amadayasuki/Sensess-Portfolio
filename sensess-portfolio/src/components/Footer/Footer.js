@@ -9,7 +9,7 @@ function Footer() {
     return (
         <Container className="justfiy-content-center">
         <Navbar fixed="bottom" variant="flat" id='navbar'>
-        <Container>
+        <Container id='fix'>
           <Navbar.Brand href="#home">
             <a href="https://github.com">
           <img
