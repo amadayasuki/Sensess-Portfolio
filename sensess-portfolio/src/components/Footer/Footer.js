@@ -3,6 +3,7 @@ import { Navbar, Container} from 'react-bootstrap';
 import LinkedIn from '../../assets/Linkedin.svg';
 import Github from '../../assets/Github.svg';
 import Instagram from '../../assets/Instagram.svg';
+import './Footer.css';
 
 function Footer() {
     return (
