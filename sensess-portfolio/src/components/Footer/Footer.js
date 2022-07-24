@@ -6,6 +6,7 @@ import Instagram from '../../assets/Instagram.svg';
 
 function Footer() {
     return (
+        <Container className="justfiy-content-center">
         <Navbar fixed="bottom" variant="flat" id='navbar'>
         <Container>
           <Navbar.Brand href="#home">
@@ -31,6 +32,7 @@ function Footer() {
           </Navbar.Brand>
         </Container>
         </Navbar>
+        </Container>
         
     );
 }
