@@ -1,5 +1,6 @@
 # Sensess-Portfolio - Challenge 20: React Portfolio
 **Still a work in progress**
+<br>
 My task is to create a portfolio using React and deploying the application to GitHub Pages.
 
 ## Acceptance Criteria
@@ -41,6 +42,9 @@ JSX
 
 ## Screenshot
 
-The following animation shows the web application's appearance and functionality:
+The following image shows the web application's appearance:
 
-<img src="./Assets/Screenshot.png" style="width: 500px"/>
+<img src="https://raw.githubusercontent.com/amadayasuki/Sensess-Portfolio/main/src/assets/Screenshot.png" style="width: 500px"/>
+
+## Deployment Link:
+https://amadayasuki.github.io/Sensess-Portfolio/
