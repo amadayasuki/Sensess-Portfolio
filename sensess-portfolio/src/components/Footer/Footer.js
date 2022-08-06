@@ -11,19 +11,19 @@ function Footer() {
         <Navbar fixed="bottom" variant="flat" id='navbar'>
         <Container id='fix'>
           <Navbar.Brand href="#home">
-            <a href="https://github.com">
+            <a href="https://github.com/amadayasuki">
           <img
             src={Github}
             alt="github"
           />
           </a>
-          <a href="https://github.com">
+          <a href="https://www.linkedin.com/in/sensess-yentzer-915882160/">
           <img
             src={LinkedIn}
             alt="github"
           />
           </a>
-          <a href="https://github.com">
+          <a href="https://www.instagram.com/sensessyentzer/">
           <img
             src={Instagram}
             alt="github"

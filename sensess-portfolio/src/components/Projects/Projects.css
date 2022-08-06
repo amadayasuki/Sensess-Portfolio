@@ -1,0 +1,19 @@
+.carousel {
+    width:800px;
+    height:400px;
+    margin: auto;
+  }
+
+
+.font-link {
+    font-family: 'Source Code Pro', cursive;
+    
+}
+
+.text {
+background-color: #7DBA84;
+}
+img.d-block.w-100.h-50 {
+    margin-top: 10%;
+}
+

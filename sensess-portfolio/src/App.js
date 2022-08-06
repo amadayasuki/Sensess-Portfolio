@@ -3,6 +3,7 @@ import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import About from './components/About/About';
 import Projects from './components/Projects/Projects';
+import Contact from './components/Contact/Contact';
 import './App.css';
 
 function App() {
@@ -16,6 +17,10 @@ function App() {
     else if (page === "projects")
     {
       return <Projects />
+    }
+    else if (page === "Contact")
+    {
+      return <Contact />
     }
   }
 
